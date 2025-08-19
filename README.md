@@ -35,3 +35,5 @@ API Gateway forwards the request to Lambda.
 Lambda stores booking details in DynamoDB.
 
 User is redirected to a success confirmation page.
+![Project Screenshot](<img width="761" height="431" alt="New" src="https://github.com/user-attachments/assets/959ea4fc-f927-4c87-9c88-3bf5dc64a676" />
+)
